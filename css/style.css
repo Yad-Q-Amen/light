@@ -1,0 +1,99 @@
+body{
+margin: 0;
+text-align: center;
+background-color: #d7fffd;
+}
+h1{
+    font-size: 3.5rem;
+margin: 0;
+font-family: 'Leckerli One', cursive;
+line-height: 130px;
+}
+h2{
+    font-family: 'Palanquin Dark', sans-serif;
+}
+h3{
+    font-family: 'Palanquin Dark', sans-serif;
+}
+p{
+    font-family: 'Alata', sans-serif;
+}
+hr{
+    border: dotted #a1e6e3 5px;
+border-bottom: none;
+width: 3%;
+margin: 52px auto;
+}
+.contact-message{
+width: 50%;
+margin: 20px auto;
+}
+.bottom-container{
+background-color: #b2ebf2;
+padding: 50px 0 20px;
+margin: 0;
+}
+.footer-link{
+    text-decoration: none;
+    margin: 10px 20px;
+    color:#000000 ;
+    font-family: 'Palanquin Dark', sans-serif;
+}
+.astro{
+font-size: 25pxS;
+}
+.para{
+    font-family: 'Rambla', sans-serif;
+}
+.middle-container{
+margin: 100px 0 0 0 ;
+}
+.skills-web{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+.skills-design{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+    }
+    .skills-science{
+        width: 25%;
+        float: left;
+        margin-right: 30px;
+        }
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.welcome-div{
+background-color: #e4f9f5;
+position: relative;
+padding-top: 100px;
+}
+.top-cloud{
+position: absolute;
+top: 50px;
+right: 300px;
+}
+.bottum-cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.my-silf-pic{
+border-radius: 100%;
+width: 13%;
+margin-top: 1.9%;
+}
+@media{max-width: 614px;}{
+    .top-cloud{
+        
+    }
+}
+
+
+
